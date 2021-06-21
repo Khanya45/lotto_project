@@ -1,0 +1,79 @@
+5301033304810 : khanya
+ 2021-06-21 
+ 0210160451089
+ khanyagope93@gmail.com 
+ d85 sihle crescent
+sets: ['17', '36', '27', '26', '29', '41'] 
+ Matches: 0 
+ Prize: 0
+sets: ['9', '15', '19', '26', '45', '34'] 
+ Matches: 0 
+ Prize: 0
+sets: ['6', '18', '19', '28', '23', '38'] 
+ Matches: 0 
+ Prize: 0
+2669120209627 : kahnay 
+ 2021-06-21 
+ 0210160451089
+ sdvvd2 
+ fferfe
+4110481201231 : fuggjg 
+ 2021-06-21 
+ 0210160451089
+ hjgglgui 
+ hgkfiugui
+7387416933776 : khanya 
+ 2021-06-21 
+ 0210160451089
+ khanyagope93@gmail.com 
+ d85 
+sets: ['14', '11', '13', '17', '23', '13'] 
+ Matches: 1 
+ Prize: 0
+sets: ['11', '19', '29', '27', '32', '33'] 
+ Matches: 1 
+ Prize: 0
+sets: ['7', '15', '24', '25', '30', '30'] 
+ Matches: 0 
+ Prize: 0
+sets: ['13', '21', '27', '28', '40', '25'] 
+ Matches: 0 
+ Prize: 0
+3184668152248 : khanya 
+ 2021-06-21 
+ 0210160451089
+ khanyagope93@gmail.com 
+ d85
+sets: ['16', '8', '19', '25', '26', '32'] 
+ Matches: 1 
+ Prize: 0
+4964276619799 : khanay 
+ 2021-06-21 
+ 0210160451089
+ khanyagope93@gmail.com 
+ d85
+sets: ['1', '2', '3', '3', '4', '6'] 
+ Matches: 1 
+ Prize: 0
+6822446961116 : dsfd 
+ 2021-06-21 
+ 6310245333080
+ thapelo@lifechoices.co.za 
+ sdfsd
+sets: ['1', '2', '3', '4', '5', '6'] 
+ Matches: 0 
+ Prize: 0
+sets: ['1', '2', '3', '4', '5', '6'] 
+ Matches: 00 
+ Prize: 00
+sets: ['1', '2', '3', '4', '5', '6'] 
+ Matches: 100 
+ Prize: 000
+7994346557741 : khanya 
+ 2021-06-21 
+ 0210160451089
+ khanyagope93@gmail.com 
+ gcgk
+sets: ['7', '19', '11', '13', '11', '11'] 
+ Matches: 0 
+ Prize: 0
